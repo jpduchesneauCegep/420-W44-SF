@@ -6,6 +6,7 @@ Vidéo de certains cours : https://www.youtube.com/playlist?list=PL1Cc1A0PTWee3o
 
 ## Auteurs :
 Jean-Pierre Duchesnau et Pierre-François Léon.
+Gnanzou Raymond Bile..
 
 ## Version : 
 - Été 2020 : Jean-Pierre Duchesneau,  les 14 premiers cours.
